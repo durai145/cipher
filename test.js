@@ -1,5 +1,4 @@
 var cipher = require('./index'); // use as CommonJS, AMD, ES6 module or via window.openpgp
-var sleep = require('sleep');
 var keys = require("./keys.json");
 var passphrase='super long and hard to guess secret' ;
 
